@@ -9,11 +9,7 @@ import { HousingLocation } from '../housinglocation';
   imports: [ 
     CommonModule
   ],
-  template: `
-    <p>
-      housing-location works!
-    </p>
-  `,
+  templateUrl: './housing-location.component.html',
   styleUrl: './housing-location.component.css'
 })
 export class HousingLocationComponent {
