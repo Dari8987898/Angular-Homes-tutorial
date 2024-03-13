@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="./angular_logo.png" alt="angular-logo" width="120px" height="120px"/>
 </p>
 
